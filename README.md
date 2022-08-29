@@ -35,3 +35,5 @@ brew install jesseduffield/lazydocker/lazydocker
 7. Log des Container anschauen
 
 In dem Container Log sieht man die Fehlermeldung **could not open /dev/kmsg**.
+
+![](./Architecture.excalidraw.png)
