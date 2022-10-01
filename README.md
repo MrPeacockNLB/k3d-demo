@@ -1,5 +1,13 @@
 # k3d-demo
 
+Ziel soll es sein einen vollwertigen K3D Cluster im GitPod zu initialisieren.
+
+# Issues
+
+https://github.com/gitpod-io/gitpod/issues/4889
+
+# Install
+
 1. `gp init` ausführen
 2. K3D installieren
 
